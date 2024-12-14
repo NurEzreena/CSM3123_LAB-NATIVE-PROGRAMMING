@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_logo_umt_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\logo_umt_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_wave_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\wave_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_wave.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\wave.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_bird_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\bird_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\drawable_wave_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\drawable\\wave_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_logo_umt.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\logo_umt.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_logo_umt_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\logo_umt_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_wave.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\wave.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_logoo_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\logoo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_wave_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\wave_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_logo_umt_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\logo_umt_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\layout_activity_linear_layout.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\layout\\activity_linear_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_bird_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\bird_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_wave_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\wave_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_logoo.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\logoo.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_bird.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\bird.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_logoo.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\logoo.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_wave_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\wave_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_logoo_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\logoo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_wave_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\wave_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_logoo_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\logoo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_logoo_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\logoo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_bird.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\bird.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_logoo.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\logoo.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_logo_umt.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\logo_umt.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_wave_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\wave_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\layout_activity_constraint_layout.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\layout\\activity_constraint_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_bird.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\bird.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_logoo_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\logoo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_logoo.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\logoo.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_wave.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\wave.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_wave.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\wave.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_bird.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\bird.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_bird_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\bird_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_bird_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\bird_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_bird_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\bird_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.layoutexploration.app-debug-31:/layout_activity_grid_layout.xml.flat",
+        "source": "com.example.layoutexploration.app-main-33:/layout/activity_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\layout_activity_relative_layout.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\layout\\activity_relative_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_logo_umt_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\logo_umt_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_logo_umt_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\logo_umt_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_bird_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\bird_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_logo_umt.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\logo_umt.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_logo_umt.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\logo_umt.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_logo_umt.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\logo_umt.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_bird_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\bird_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_wave_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\wave_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_logoo_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\logoo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_bird_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\bird_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_bird_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\bird_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_logoo_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\logoo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_logo_umt_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\logo_umt_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_logo_umt_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\logo_umt_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-mdpi_bird_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-mdpi\\bird_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\drawable_logo_umt_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\drawable\\logo_umt_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_logoo.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\logoo.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_logoo_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\logoo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_logo_umt_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\logo_umt_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_wave_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\wave_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_wave.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\wave.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_bird.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\bird.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_logoo_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\logoo_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_logo_umt_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\logo_umt_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_wave_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\wave_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_logo_umt_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\logo_umt_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_bird.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\bird.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_wave.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\wave.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_logoo.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\logoo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_logo_umt.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\logo_umt.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_bird_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\bird_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\drawable_waves.jpg.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\drawable\\waves.jpg"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\drawable_logoo_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\drawable\\logoo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xhdpi_logoo_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xhdpi\\logoo_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxhdpi_wave_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxhdpi\\wave_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-xxxhdpi_logo_umt_foreground.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-xxxhdpi\\logo_umt_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\layout_activity_grid_layout.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\layout\\activity_grid_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_wave_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\wave_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-debug-31:\\mipmap-anydpi-v26_logoo_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.example.layoutexploration.app-main-33:\\mipmap-anydpi-v26\\logoo_round.xml"
+    }
+]

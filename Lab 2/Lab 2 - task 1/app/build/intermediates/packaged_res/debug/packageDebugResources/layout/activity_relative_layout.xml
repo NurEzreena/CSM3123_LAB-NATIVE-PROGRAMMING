@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RelativeLayoutActivity">
+
+    <!-- RelativeLayout Section -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/copyrightTextView"
+        android:padding="16dp">
+
+        <!-- Title TextView centered horizontally -->
+        <TextView
+            android:id="@+id/relativeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Welcome to the App!"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:padding="8dp"
+            android:textColor="#3F51B5"
+            android:layout_centerHorizontal="true"/>
+
+        <!-- EditText for name input -->
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your name"
+            android:layout_below="@id/relativeText"
+            android:layout_marginTop="20dp"
+            android:padding="8dp"
+            android:background="@android:drawable/editbox_background"/>
+
+        <!-- Another EditText for email input -->
+        <EditText
+            android:id="@+id/emailEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your email"
+            android:layout_below="@id/editText"
+            android:layout_marginTop="14dp"
+            android:padding="8dp"
+            android:inputType="textEmailAddress"
+            android:background="@android:drawable/editbox_background"/>
+        <!-- Submit Button centered horizontally -->
+        <Button
+            android:id="@+id/submitButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="419dp"
+            android:backgroundTint="#FF4081"
+            android:text="Submit"
+            android:textColor="#FFFFFF" />
+
+    </RelativeLayout>
+
+    <!-- Copyright Text centered at the bottom -->
+    <TextView
+        android:id="@+id/copyrightTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="© 2024 Ezreena"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

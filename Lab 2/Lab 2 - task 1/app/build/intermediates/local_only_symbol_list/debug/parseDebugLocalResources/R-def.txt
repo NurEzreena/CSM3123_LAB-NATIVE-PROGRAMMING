@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable waves
+id constraintLayoutButton
+id constraintText
+id copyrightTextView
+id editText
+id emailEditText
+id goBackButton
+id gridLayoutButton
+id iconImageView
+id linearLayoutButton
+id main
+id nameEditText
+id optionsSpinner
+id relativeLayoutButton
+id relativeText
+id submitButton
+id usernameEditText
+layout activity_constraint_layout
+layout activity_grid_layout
+layout activity_linear_layout
+layout activity_main
+layout activity_relative_layout
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.LayoutExploration
+style Theme.LayoutExploration
+xml backup_rules
+xml data_extraction_rules
