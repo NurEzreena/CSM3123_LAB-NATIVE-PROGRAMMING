@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- TextView for Greeting -->
+    <TextView
+        android:id="@+id/tv_greeting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello, enter your details below!"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"
+        android:layout_gravity="center_horizontal" />
+
+    <!-- EditText for Name -->
+    <EditText
+        android:id="@+id/et_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your name"
+        android:inputType="textPersonName"
+        android:layout_marginBottom="16dp" />
+
+    <!-- EditText for Age -->
+    <EditText
+        android:id="@+id/et_age"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your age"
+        android:inputType="number"
+        android:layout_marginBottom="16dp" />
+
+    <!-- EditText for City -->
+    <EditText
+        android:id="@+id/et_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter your city"
+        android:inputType="text"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Save Button -->
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Data"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Load Button -->
+    <Button
+        android:id="@+id/btn_load"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Load Data"
+        android:layout_marginBottom="8dp" />
+
+    <!-- Clear Button -->
+    <Button
+        android:id="@+id/btn_clear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clear Data" />
+
+</LinearLayout>
